@@ -1199,10 +1199,10 @@ expand-tilde@^1.2.2:
   dependencies:
     os-homedir "^1.0.1"
 
-expect-puppeteer@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/expect-puppeteer/-/expect-puppeteer-6.0.2.tgz#3da28c89234ddbf56774454155572488c2303843"
-  integrity sha512-Xlor321I2MrrgW9BWei0Lq4C9meU7qmyycwQMjprKh+tLG9MalptqdDPse16+1Ffq+hvM/kAlZcEchcteGWhzw==
+expect-puppeteer@^6.0.2, expect-puppeteer@^6.1.1:
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/expect-puppeteer/-/expect-puppeteer-6.1.1.tgz#f446cd2a6f9db895077e4fe591db432b5d7f34b5"
+  integrity sha512-cnQF96qdoEcOD63j5NQMc0RtW9WRMW/WHKXEKsuDQ2tszhVH3qC7zkXXS4D0LTt9qCB3DEExioqylsQXvqPrUw==
 
 expect@^27.4.2:
   version "27.4.2"
